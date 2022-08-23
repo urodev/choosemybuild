@@ -1,0 +1,32 @@
+* {
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+}
+html,
+body {
+  margin: 0;
+  background-color: #ddd;
+}
+img {
+  width: 150px;
+}
+.titleBuilds {
+  text-align: center;
+  margin: 25px 0 25px 0;
+  color: #03b;
+}
+table,
+th,
+td {
+  width: 400px;
+  text-align: center;
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+th,
+td {
+  background-color: #96d4d4;
+}
+#myChart {
+  padding-top: 5px;
+}
